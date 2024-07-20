@@ -23,3 +23,11 @@ Install all required python packages using
 
 TODO: S3 cloud storage instead of local server 
 
+Data has to be stored and managed in the `data` directory. After changing a file the follwing commands should be executed:
+
+`dvc add data/<edited file>`
+
+`git commit data/<edited file>.dvc -m "Dataset updated"`
+
+`dvc push`
+
