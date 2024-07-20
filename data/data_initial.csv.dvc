@@ -1,0 +1,5 @@
+outs:
+- md5: 5caa35793bce2b855ac061b15e2776bb
+  size: 8469882
+  hash: md5
+  path: data_initial.csv
