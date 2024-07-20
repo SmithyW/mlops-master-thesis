@@ -1,0 +1,6 @@
+outs:
+- md5: 40907fb57eb2ca1daefd653fd37ee915
+  size: 4417132
+  isexec: true
+  hash: md5
+  path: 2016_08-2020_07.TXT
