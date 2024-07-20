@@ -2,7 +2,7 @@
     remote = storage
 ['remote "storage"']
     url = s3://kfz-wissor/dvcstore
-    endpointurl = http://mastibai.cloud:9000
+    endpointurl = http://mastiabi.cloud:9000
     ssl_verify = false
     grant_read = id=mastiabi
     use_ssl = false
